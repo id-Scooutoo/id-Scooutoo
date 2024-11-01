@@ -1,7 +1,4 @@
 ### Hello World 👋
-I am a aspiring front-end web developer from Poland 🇵🇱. <br>
-Working on multiple front-end and single back-end projects using React, Nodejs, Bootstrap 💡. <br>
-Learning responsive design and cross-browser compatibility, UI/UX design principles and practices 👨‍💻. <br> 
 
 <br> Connect with me  <br> [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/skorowski-dev/) <br>
 
